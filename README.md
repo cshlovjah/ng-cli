@@ -13,6 +13,11 @@ Clone into local machine
 git clone https://github.com/cshlovjah/ng-cli.git
 ```
 
+```js
+npm install
+```
+
+
 Symlink a package folder
 
 ```js
