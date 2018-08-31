@@ -10,7 +10,7 @@
 Clone into local machine
 
 ```js
-git clone https://github.com/1296mhz/ng-cli.git
+git clone https://github.com/cshlovjah/ng-cli.git
 ```
 
 Symlink a package folder
