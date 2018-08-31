@@ -27,4 +27,5 @@ In the root directory of the project
 ```js
 ng-cli ComponentName
 ```
-In the directory ./src/app
+In the directory ./src/app - 
+a directory with the component will be created.
