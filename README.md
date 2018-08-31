@@ -14,9 +14,12 @@ git clone https://github.com/cshlovjah/ng-cli.git
 ```
 
 ```js
-npm install
+cd ng-cli
 ```
 
+```js
+npm install
+```
 
 Symlink a package folder
 
