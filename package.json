@@ -1,7 +1,7 @@
 {
-  "name": "ng",
+  "name": "ng-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "tools angularjs material typescript creator component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

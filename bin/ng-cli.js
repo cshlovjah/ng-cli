@@ -8,7 +8,7 @@ const meow = require('meow');
 
 const cli = meow(`
 	Usage
-	  $ ng <appName>
+	  $ ng-cli <appName>
 `, {});
 
 console.log(__dirname)
