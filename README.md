@@ -2,7 +2,7 @@
 # Allows you to create components
 
 #AngularJs-Material Webpack Typescript Template.
-[link](https://github.com/1296mhz/angularjs-material-webpack-typescript-template)
+[link](https://github.com/cshlovjah/angularjs-material-typescrypt-boilerplate)
 
 
 
